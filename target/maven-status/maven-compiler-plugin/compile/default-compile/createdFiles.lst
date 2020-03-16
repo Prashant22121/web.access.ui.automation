@@ -1,0 +1,5 @@
+commonfunctions\Base.class
+commonfunctions\SampleTest.class
+pageobjects\MenuPage.class
+commonfunctions\Utility.class
+pageobjects\ContactPage.class
